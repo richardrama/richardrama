@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="assets/back_view_on_snow_mountain.gif" width="100%" height="auto">
+  <img  src="assets/github-banner.gif" width="100%" height="auto">
 </p>
 <h1 align="center">Hello there 👋, I'm Richard Rama Arung Bua'</h1>
 
