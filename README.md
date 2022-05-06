@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img  src="assets/back_view_on_snow_mountain.gif" width="100%" height="auto">
+</p>
+<h1 align="center">Hello there 👋, I'm Richard Rama Arung Bua'</h1>
 
 <!--
 **richardrama/richardrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
